@@ -1,0 +1,28 @@
+header {
+  background-color: #DC3546;
+  color: white;
+  padding: 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .title-container {
+  padding-left: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+header .home,
+header .contact {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+header h2 {
+  padding-right: 25px;
+}

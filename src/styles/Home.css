@@ -1,0 +1,25 @@
+main {
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+main h2 {
+  font-size: 50px;
+  font-weight: 200;
+}
+
+main .main-title {
+  font-weight: 600;
+}
+
+main .main-subtitle {
+  font-size: 22px;
+}
+
+main .main-emoji {
+  font-size: 80px;
+}
